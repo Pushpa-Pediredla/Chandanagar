@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code First with Entity Framework
 
 Simple example of Entity Framework Core Code-First approach.
@@ -84,3 +85,6 @@ To get MS SQL connection string proceed:
 - Type there your server name
 - Click add connection
 - Then in properties of such connection you'd get connection string
+=======
+all files
+>>>>>>> 16e189ea4f2786177457b984c89dc4285dd567ac
